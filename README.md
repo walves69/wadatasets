@@ -30,6 +30,15 @@ Coleção de datasets para estudo e trabalho.
 
 - Brasil.io: [O Brasil em dados libertos](https://brasil.io/home/)
 
+### Nordeste
+
+#### Ceará
+
+- [Ceará Transparente](https://cearatransparente.ce.gov.br/portal-da-transparencia/dados-abertos/conjuntos-de-dados?locale=pt-BR&__=__)
+- [Dados Abertos Fortaleza](https://dados.fortaleza.ce.gov.br/)
+- [Tribunal Regional Eleitoral Dados Abertos](https://www.tre-ce.jus.br/transparencia-e-prestacao-de-contas/dados-abertos)
+- [Universida Federal do Ceará Dados Abertos](http://dados.ufc.br/)
+
 
 ## Datasets Internacioniais
 
