@@ -1,6 +1,6 @@
 # WA Datasets
 
-Coleção de datasets para estudo e trabalho.
+Coleção de sites com datasets para estudo e trabalho.
 
 ## Dados no Brasil :brazil:
 
