@@ -30,6 +30,10 @@ Coleção de sites com datasets para estudo e trabalho.
 
 - Brasil.io: [O Brasil em dados libertos](https://brasil.io/home/)
 
+### Ferramentas de Busca
+
+- [Querido Diário](https://queridodiario.ok.org.br/): Explore os diários oficiais dos municípios e fique de olho nas ações dos governos.
+
 ### Nordeste
 
 #### Ceará
